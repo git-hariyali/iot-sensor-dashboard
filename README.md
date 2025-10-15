@@ -59,3 +59,6 @@ Real-time updates via WebSocket
 Displays last 20 readings in dashboard
 
 Easily extendable to support multiple sensors
+
+
+![Node.js CI](https://github.com/git-hariyali/iot-sensor-dashboard/actions/workflows/node-ci.yml/badge.svg)
