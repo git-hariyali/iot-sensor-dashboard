@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Kafka data (if any local setup)
+kafka-logs/
+zookeeper-logs/
+
+# OS files
+.DS_Store
+
+# Next.js build
+.next/
+out/
+
+# Docker
+*.pid
+*.sock
+docker-compose.override.yml
